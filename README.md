@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bootstrap,c,cpp,css,discord,express,figma,firebase,flutter,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vue,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bootstrap,c,cpp,css,discord,express,figma,firebase,flutter,github,html,java,js,linux,materialui,mongodb,mysql,nuxtjs,nodejs,postman,py,react,redux,tailwind,ts,vue,vscode&perline=14" />
   </a>
 </p>
 
