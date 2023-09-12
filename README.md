@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!--Intro start-->
 - 🔭 I’m currently working on **Laravel, Vue, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Nuxt 3 and Typescript.**
 
 <!-- - ☁️ I've keen interest in web development. So,I'm learning **AWS** -->
 
