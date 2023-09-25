@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Laravel, Vue, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Nuxt 3, Vue 3, Typescript**
 
 - 🌱 I’m currently learning **Nuxt 3 and Typescript.**
 
