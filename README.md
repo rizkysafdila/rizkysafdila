@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <!-- - 📝 I regularly write articles on [Hashnode](https://rizkysafdila.hashnode.dev/) -->
 
-- 💬 Ask me about **laravel, vue, nodejs, mongoDB**
+- 💬 Ask me about **Laravel, Vue, Nuxt Js, Node Js, MongoDB**
 
 - 📫 Feel free to reach me out **rizkysafdila@gmail.com**
 
